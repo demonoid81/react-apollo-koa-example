@@ -2,9 +2,9 @@
   "name": "react-apollo-koa-example",
   "version": "0.1.0",
   "description": "An example app using React, Apollo and Koa",
-  "repository": "https://github.com/yatsu/react-apollo-koa-example.git",
+  "repository": "https://github.com/demonoid81/react-apollo-koa-example.git",
   "license": "MIT",
-  "author": "Masaki Yatsu <yatsu@yatsu.info>",
+  "author": "Demonoid",
   "private": true,
   "devDependencies": {
     "@storybook/addon-actions": "^3.2.0",
